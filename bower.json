@@ -1,0 +1,16 @@
+{
+  "name": "jq-tube-util",
+  "main": "JQTubeUtil.js",
+  "version": "0.9",
+  "homepage": "http://www.tikku.com/jquery-jqtube-util",
+  "authors": [
+    "Nirvana Tikku"
+  ],
+  "description": "jQuery плагин для поиска на youtube.com",
+  "keywords": [
+    "youtube",
+    "search",
+    "jquery"
+  ],
+  "license": "MIT"
+}

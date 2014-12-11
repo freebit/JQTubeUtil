@@ -98,8 +98,8 @@
         VideoURL = FeedsURL + "/videos/",
         SearchURL = FeedsURL + "/videos",
         StandardFeedsURL = FeedsURL + "/standardfeeds",
-        MostViewed = StandardFeedsURL + "/most_viewed"
-    MostPopular = StandardFeedsURL + "/most_popular",
+        MostViewed = StandardFeedsURL + "/most_viewed",
+        MostPopular = StandardFeedsURL + "/most_popular",
         MostRecent = StandardFeedsURL + "/most_recent",
         TopRated = StandardFeedsURL + "/top_rated",
         TopFavs = StandardFeedsURL + "/top_favorites",
